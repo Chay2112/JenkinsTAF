@@ -1,2 +1,2 @@
-# JenkinsTAF
-This is a sample repository for trigerring TAF from a jenkins using a git repo
+# Sample java programming
+Repo which has sample java programs written using swings and awt.
